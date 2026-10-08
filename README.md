@@ -114,6 +114,23 @@ JARVIS can:
 ---
 
 ## 🔄 How JARVIS Works
+---
+
+## 📸 Screenshots
+
+### 🎙️ JARVIS Voice Assistant
+
+<p align="center">
+  <img src="Screenshot%202026-10-08%20135252.png" width="900">
+</p>
+
+### 🖥️ JARVIS Running in Terminal
+
+<p align="center">
+  <img src="Screenshot%202026-10-08%20135303.png" width="900">
+</p>
+
+---
 
 ```text
                  🎙️ User Voice
